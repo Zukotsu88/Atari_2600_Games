@@ -1,5 +1,5 @@
 # Atari_2600_Games
-The purpose of this reinforcement learning project is to create working agents in to win at several Atari 2600 games using a Deep Q Learning algorithm. 
+The purpose of this reinforcement learning project is to create working agents in order to win several Atari 2600 games using a Deep Q Learning algorithm. 
 This includes: 
 1. AirRaid
 2. Air-Striker Genesis
